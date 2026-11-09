@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CommonLibrary/CommonLibrary.csproj" />
+  <Project Path="TC_API/TC_API.csproj" />
+  <Project Path="../../Tests/TC_API.Tests/TC_API.Tests.csproj" />
+  <Project Path="../Gateway/TC_RfidCapture/TC_RfidCapture.csproj" />
+  <Project Path="../../Tests/TC_RfidCapture.Tests/TC_RfidCapture.Tests.csproj" />
+</Solution>

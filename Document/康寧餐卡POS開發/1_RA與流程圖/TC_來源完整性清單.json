@@ -1,0 +1,102 @@
+{
+  "as_of": "2026-11-06",
+  "files": [
+    {
+      "path": "1.用餐管理系統.zip",
+      "bytes": 6219613,
+      "sha256": "d6c8c54482d8e6b7c7b2867b9f20bc3de53673714ca2e337e51d437d0a4a357e",
+      "verification": "檔案完整性識別；非設備或資料庫內容驗收"
+    },
+    {
+      "path": "2.用餐感應接收程式-.zip",
+      "bytes": 5095253,
+      "sha256": "41151bd6f066bb452f76b08896ff330604d1a26d134aed2aa0f0c275767804ed",
+      "verification": "檔案完整性識別；非設備或資料庫內容驗收"
+    },
+    {
+      "path": "3.C#.rar",
+      "bytes": 62356453,
+      "sha256": "ed8c547721f9e39e68686b7216241df2ac66e533b9605f35a65736029f3f38c1",
+      "verification": "檔案完整性識別；非設備或資料庫內容驗收"
+    },
+    {
+      "path": "Database/Corning_Dining_TC.bak",
+      "bytes": 4722688,
+      "sha256": "4cef01230a51d32d2068d579836220cad1375c077952430cfd1f646ff1a04894",
+      "verification": "檔案完整性識別；非設備或資料庫內容驗收"
+    },
+    {
+      "path": "Database/Corning_POS_TC.bak",
+      "bytes": 4263936,
+      "sha256": "751a5dff908a4c9fe820b00f96d3ce5037949669cc610bdf0f5741b9a5bbb6b5",
+      "verification": "檔案完整性識別；非設備或資料庫內容驗收"
+    },
+    {
+      "path": "Database/Database/Corning_Dining_TC.mdf",
+      "bytes": 3145728,
+      "sha256": "71b5260f7890d2217efb67211de02c66114448788a822e6a8b4106b8bd5b0fef",
+      "verification": "檔案完整性識別；非設備或資料庫內容驗收"
+    },
+    {
+      "path": "Database/Database/Corning_Dining_TC_log.ldf",
+      "bytes": 1048576,
+      "sha256": "6f1d7d312193768ff052257733963404208e7e6b2b481032fa94f0b0f9f4e323",
+      "verification": "檔案完整性識別；非設備或資料庫內容驗收"
+    },
+    {
+      "path": "Database/Database/Corning_Dining_TCTableSchema202604280121.xlsx",
+      "bytes": 45287,
+      "sha256": "dbdceaef0ed95ce6406254616494ccd9155d81fe5412a140598ad41239a5738e",
+      "verification": "檔案完整性識別；非設備或資料庫內容驗收"
+    },
+    {
+      "path": "Database/Database/Corning_Dining_TC註解生成語法.sql",
+      "bytes": 79120,
+      "sha256": "c6a4d17363ac8e03496e81c75c05f7c376bebbc4fd9a2ddea2085ed13f90e9af",
+      "verification": "檔案完整性識別；非設備或資料庫內容驗收"
+    },
+    {
+      "path": "Database/Database/Corning_POS_TC.mdf",
+      "bytes": 3145728,
+      "sha256": "e4d0e20867f0c9904c26a141b64bf710b0b074cc94df2ab679bfaf4a098f2c52",
+      "verification": "檔案完整性識別；非設備或資料庫內容驗收"
+    },
+    {
+      "path": "Database/Database/Corning_POS_TC_log.LDF",
+      "bytes": 516096,
+      "sha256": "02e0e3dd9ec9a1c91c662ba2902e27870c6ef04e6f643f90fac11318b3ea406b",
+      "verification": "檔案完整性識別；非設備或資料庫內容驗收"
+    },
+    {
+      "path": "Database/Database/Corning_POS_TCTableSchema202604280121.xlsx",
+      "bytes": 19494,
+      "sha256": "ff1afed15e81c0e95b16167cd3bfc1312af6b2d6c851e54b4173b761d1a3ea2f",
+      "verification": "檔案完整性識別；非設備或資料庫內容驗收"
+    },
+    {
+      "path": "Database/Database/Corning_POS_TC註解生成語法.sql",
+      "bytes": 38998,
+      "sha256": "eb6fb4e3a8da4787207f39c5d7018db5d51b4ab8b9f7d5f0124f5c8e8c425f57",
+      "verification": "檔案完整性識別；非設備或資料庫內容驗收"
+    },
+    {
+      "path": "Database/Database/TC-Dining-用餐管理系統原始碼-20260417.code-workspace",
+      "bytes": 136,
+      "sha256": "1a6cbdc0cd2db5b0fb80e166dcb3dd01cdb502a8bf248b3345f12ed2bd2a76e5",
+      "verification": "檔案完整性識別；非設備或資料庫內容驗收"
+    },
+    {
+      "path": "台中康寧餐費系統介面.pptx",
+      "bytes": 3481847,
+      "sha256": "80390521a8c2c00453c1455511e6e5481d6a1ec918bdea0a31a68e73138a039e",
+      "verification": "檔案完整性識別；非設備或資料庫內容驗收"
+    },
+    {
+      "path": "系統規劃資料1021_new.pdf",
+      "bytes": 691882,
+      "sha256": "c7cf64b1b438fbb68b24f74e2f5159ee7c05246cbe124a5906cbfa9af51c5c14",
+      "verification": "檔案完整性識別；非設備或資料庫內容驗收"
+    }
+  ],
+  "source_root_relative_to_manifest": "../../../開發前規劃資料"
+}

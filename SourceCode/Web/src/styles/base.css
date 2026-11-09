@@ -1,0 +1,12 @@
+:root {
+  font-family: 'Segoe UI', 'Microsoft JhengHei', sans-serif;
+  color: #243442;
+  background: #f3f5f7;
+  font-synthesis: none;
+  color-scheme: light;
+}
+* { box-sizing: border-box; }
+body { margin: 0; min-width: 320px; font-family: inherit; color: inherit; background: inherit; }
+button, input, select { font: inherit; }
+a { color: #305f85; }
+.error-text { color: #a42622; }

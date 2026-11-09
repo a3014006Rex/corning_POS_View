@@ -1,0 +1,6 @@
+[
+  { "id": "employee-a", "employeeCode": "SYNTH00000001", "name": "測試員工甲", "cardCode": "0000000101", "identityType": "員工", "enabled": true },
+  { "id": "employee-b", "employeeCode": "SYNTH00000002", "name": "測試員工乙", "cardCode": "0000000000103", "identityType": "員工", "enabled": true },
+  { "id": "temporary", "employeeCode": "SYNTH00000003", "name": "測試臨時卡", "cardCode": "0000000199", "identityType": "臨時卡", "enabled": true },
+  { "id": "revoked", "employeeCode": "SYNTH00000004", "name": "測試撤銷卡", "cardCode": "0000000104", "identityType": "員工", "enabled": false }
+]

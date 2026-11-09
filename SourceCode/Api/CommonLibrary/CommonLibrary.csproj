@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>Corning.Pos</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+    <EmbeddedResource Include="Infrastructure/Simulation/scenarios.synthetic.json" LogicalName="Corning.Pos.SyntheticScenarios.json" />
+  </ItemGroup>
+</Project>
